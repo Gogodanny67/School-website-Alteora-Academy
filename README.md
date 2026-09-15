@@ -1,12 +1,11 @@
 # Alteora Academy Website
 
-A responsive school website built with HTML and CSS.
+A responsive school website built with HTML and CSS. 
 
 ## Files
 
 * `index.html` — page structure and content
-* `style.css` — complete responsive design
-* `script.js` — mobile navigation, modal video placeholder, form feedback, animations and dynamic year
+* `style.css` — complete responsive design 
 
 ## Run
 
